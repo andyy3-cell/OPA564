@@ -1292,18 +1292,6 @@
 		(uuid "4eb0f7ef-5ae4-4388-aa9f-3bc078d880fe")
 	)
 	(junction
-		(at 44.45 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "55753a44-f9d8-4096-8f72-9aad639b5a1e")
-	)
-	(junction
-		(at 162.56 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "61792a67-84ea-4a5e-b615-6c55e84191a0")
-	)
-	(junction
 		(at 27.94 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1328,12 +1316,6 @@
 		(uuid "afd72a6a-a77d-4e38-87d9-cfeb1b680877")
 	)
 	(junction
-		(at 44.45 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7b77b6d-d22a-4aa1-a4e9-21d7e867c114")
-	)
-	(junction
 		(at 40.64 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1344,12 +1326,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c5276def-f78d-4f76-af11-2e40b5776887")
-	)
-	(junction
-		(at 44.45 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7ad5129-89f9-48db-b6fb-6c79ed088478")
 	)
 	(junction
 		(at 105.41 57.15)
@@ -1364,10 +1340,6 @@
 		(uuid "e73f84ae-1967-4a82-88f3-245c3977ae05")
 	)
 	(no_connect
-		(at 180.34 151.13)
-		(uuid "0b972bdf-b807-4741-a210-d5b35525bd0d")
-	)
-	(no_connect
 		(at 161.29 64.77)
 		(uuid "415bc317-46b7-41eb-9ca6-e03c058eff32")
 	)
@@ -1380,58 +1352,12 @@
 		(uuid "46112aaf-cb56-47f6-aae7-cb6b2790702c")
 	)
 	(no_connect
-		(at 162.56 135.89)
-		(uuid "4ec7b5ce-d48b-47a0-9cab-c81d4a8d9e90")
-	)
-	(no_connect
 		(at 161.29 54.61)
 		(uuid "67692266-25cb-4fe2-a939-04f98d79328b")
 	)
 	(no_connect
-		(at 100.33 123.19)
-		(uuid "8310cd79-750a-473f-ac87-97acb1784da4")
-	)
-	(no_connect
-		(at 100.33 120.65)
-		(uuid "9173d0dd-0225-4799-ad8e-1a296e2f26dd")
-	)
-	(no_connect
-		(at 198.12 120.65)
-		(uuid "99be5c8f-fda3-47d6-84fd-842389e97a48")
-	)
-	(no_connect
-		(at 198.12 123.19)
-		(uuid "b53896cd-2030-48ae-a6fa-a3263b9e89ae")
-	)
-	(no_connect
 		(at 143.51 82.55)
 		(uuid "b79af9c8-946e-48cf-8d34-6d25e428b997")
-	)
-	(no_connect
-		(at 198.12 133.35)
-		(uuid "d7e47148-7c8d-434c-9f24-e52c3e2d4585")
-	)
-	(no_connect
-		(at 100.33 133.35)
-		(uuid "e1b4081e-fb6d-46af-ac19-28666967fb04")
-	)
-	(no_connect
-		(at 82.55 151.13)
-		(uuid "f4ebe2c6-f67c-453e-8a02-b3e1058fae1a")
-	)
-	(no_connect
-		(at 64.77 135.89)
-		(uuid "ffb402e5-ae32-48b9-8b56-3b678e07bf24")
-	)
-	(wire
-		(pts
-			(xy 115.57 104.14) (xy 115.57 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cf9857a-7cf7-41a3-8580-f322bf0a6953")
 	)
 	(wire
 		(pts
@@ -1455,16 +1381,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 125.73) (xy 64.77 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "268911f4-f227-4f10-915a-199cf510b92a")
-	)
-	(wire
-		(pts
 			(xy 105.41 57.15) (xy 105.41 59.69)
 		)
 		(stroke
@@ -1482,36 +1398,6 @@
 			(type default)
 		)
 		(uuid "2caf53dd-7c36-4395-bb83-13b08aa5e7d8")
-	)
-	(wire
-		(pts
-			(xy 44.45 104.14) (xy 115.57 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3170c3b2-c9c8-48fb-8a64-28c89168fb53")
-	)
-	(wire
-		(pts
-			(xy 147.32 125.73) (xy 162.56 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3787320e-57e2-4afb-afc0-5a133717a0eb")
-	)
-	(wire
-		(pts
-			(xy 100.33 135.89) (xy 130.81 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f876a44-ec44-4dfb-827c-368b1fec41c1")
 	)
 	(wire
 		(pts
@@ -1542,26 +1428,6 @@
 			(type default)
 		)
 		(uuid "6398f056-2f6f-40d2-8dcc-a9ffe013c1d8")
-	)
-	(wire
-		(pts
-			(xy 64.77 128.27) (xy 44.45 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cd04a5d-2142-403e-94db-64bbdbd76b4b")
-	)
-	(wire
-		(pts
-			(xy 147.32 102.87) (xy 147.32 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a292f28-1eeb-45a8-8078-77183784a3ec")
 	)
 	(wire
 		(pts
@@ -1605,16 +1471,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 102.87) (xy 147.32 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b31a7a53-88af-4212-9c4f-ba879f8430e8")
-	)
-	(wire
-		(pts
 			(xy 95.25 35.56) (xy 97.79 35.56)
 		)
 		(stroke
@@ -1622,16 +1478,6 @@
 			(type default)
 		)
 		(uuid "b596bb16-46c4-4f64-8bb6-699f0db48380")
-	)
-	(wire
-		(pts
-			(xy 115.57 128.27) (xy 100.33 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbda2c8a-4e64-40a8-ac6b-daa6dc3276d3")
 	)
 	(wire
 		(pts
@@ -1645,16 +1491,6 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 125.73) (xy 162.56 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7eea6e3-c005-460c-a997-755fefe2dc8d")
-	)
-	(wire
-		(pts
 			(xy 161.29 67.31) (xy 191.77 67.31)
 		)
 		(stroke
@@ -1662,16 +1498,6 @@
 			(type default)
 		)
 		(uuid "d0b8edc5-1b9a-4b7f-ac29-68e6ea9fbb52")
-	)
-	(wire
-		(pts
-			(xy 44.45 128.27) (xy 44.45 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd198872-764c-49c1-86c0-cfaa56eb8c35")
 	)
 	(wire
 		(pts
@@ -1685,26 +1511,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 104.14) (xy 44.45 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df464421-887a-40c7-b0a5-786b59fe613f")
-	)
-	(wire
-		(pts
-			(xy 222.25 128.27) (xy 222.25 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1626018-9b86-4dbe-bad8-e298b01565f2")
-	)
-	(wire
-		(pts
 			(xy 27.94 36.83) (xy 40.64 36.83)
 		)
 		(stroke
@@ -1712,46 +1518,6 @@
 			(type default)
 		)
 		(uuid "e293f25a-3ff3-4eff-a6ee-e40fb76bcd67")
-	)
-	(wire
-		(pts
-			(xy 222.25 128.27) (xy 198.12 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eefed0aa-38a4-4656-862b-ca43823cc66e")
-	)
-	(wire
-		(pts
-			(xy 44.45 125.73) (xy 44.45 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f69c3c11-1726-4fea-abe7-b35fce290893")
-	)
-	(wire
-		(pts
-			(xy 198.12 135.89) (xy 228.6 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f72821aa-dda0-4115-ad34-03efde1942b8")
-	)
-	(wire
-		(pts
-			(xy 34.29 104.14) (xy 36.83 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe923ab9-6e0f-4284-8ab6-adee69410f10")
 	)
 	(global_label "-12 Volts"
 		(shape input)
@@ -1790,30 +1556,6 @@
 		(uuid "0c86bffd-e39e-460e-b1ab-ae17a190c284")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 113.1292 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 162.56 120.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1ba940c9-b556-4172-acc0-55d6e00a1a02")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1873,30 +1615,6 @@
 			)
 		)
 	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 198.12 138.43 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2a1e9e06-15cb-4a12-ac68-3d391e6629a8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.7208 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "Signal Input"
 		(shape input)
 		(at 161.29 57.15 0)
@@ -1918,246 +1636,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 228.6 128.27 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c14ecb4-e3eb-404b-b979-7f73895ceb28")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 115.6692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 130.81 128.27 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "322621e2-f450-46e3-9ea7-5f9f33906263")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 115.6692 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 64.77 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "363f46ea-def8-422f-9ab9-062c9f7339db")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Signal Input"
-		(shape input)
-		(at 100.33 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "39cc6aff-f95d-4692-9da0-411c99e616ff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.9868 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 64.77 115.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "45c2a754-5ec3-42b2-9f0b-a2ae512cad03")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 198.12 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4fdb977e-e047-4db7-8711-8e9477b56b3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.7208 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 100.33 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "52606557-6e67-4a6a-b2f1-4be0de50604d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.9308 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 100.33 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "52e6f9a1-cef8-4709-a6fe-0bf21bf3cd18")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.9308 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 64.77 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "546dfcde-2615-49a7-a694-bb515c0968e8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 162.56 115.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5eaa1ed0-351d-40eb-8e80-4d52ea08b969")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -2305,30 +1783,6 @@
 			)
 		)
 	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 64.77 120.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "86bb94e4-f45e-42e7-969d-4dfecbd5a84e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "-12 Volts"
 		(shape input)
 		(at 45.72 53.34 0)
@@ -2350,30 +1804,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 64.77 118.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8b58ca3b-93cb-4ec8-b6fb-36b6dc27a8fd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -2403,30 +1833,6 @@
 	)
 	(global_label "+12 Volts"
 		(shape input)
-		(at 64.77 123.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8bd2da37-6e02-4578-a4ca-c8c7e192e0eb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
 		(at 161.29 49.53 0)
 		(fields_autoplaced yes)
 		(effects
@@ -2446,30 +1852,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "Follower Signal Input"
-		(shape input)
-		(at 44.45 138.43 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9d67214b-596a-47ec-8e04-dcd7f35f2d42")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 161.9767 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -2499,30 +1881,6 @@
 	)
 	(global_label "-12 Volts"
 		(shape input)
-		(at 162.56 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9f280904-354d-4d4b-a5ec-afa8883c9ff1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
 		(at 125.73 46.99 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2534,174 +1892,6 @@
 		(uuid "a5533976-bf59-42e4-92fb-0e992376e7c6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 113.1292 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Follower Signal Input"
-		(shape input)
-		(at 198.12 125.73 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "affd8df5-1ece-4089-9ff3-3e6d4c65290d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.6667 125.73 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 162.56 123.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b388ca4a-f837-43a0-a5e2-b9aeec8055c9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 162.56 130.81 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b6e2073b-7bc6-4e3f-9135-248730b71379")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 162.56 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b92c6430-062b-41a6-a06f-24165bf438c2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "+12 Volts"
-		(shape input)
-		(at 162.56 118.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c0149064-dda2-46c6-84d3-5eea694fba5f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 149.9592 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "-8 Volts"
-		(shape input)
-		(at 100.33 130.81 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c4dd3784-3c7a-403a-8a75-1f21b512b168")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 111.7213 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 64.77 130.81 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d2b93d1c-cf1b-41ea-96d5-32d562932aaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.1692 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2726,78 +1916,6 @@
 		(uuid "daf68447-34e3-4481-991d-5761be6bb98e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 173.8908 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 100.33 138.43 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e523259e-0bf8-4273-9218-a893438f184b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.9308 138.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-12 Volts"
-		(shape input)
-		(at 198.12 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "e89f96e2-94a2-4472-a223-3608f4515493")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.7208 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "-8 Volts"
-		(shape input)
-		(at 198.12 130.81 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f142da01-3a9d-484f-a3d3-3215eaee97c7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.5113 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2888,205 +2006,6 @@
 		)
 	)
 	(symbol
-		(lib_id "OPA564AIDWD:OPA564AIDWD")
-		(at 162.56 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e03a174-3022-4b90-991b-70555fac23a4")
-		(property "Reference" "IC3"
-			(at 180.34 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "OPA564AIDWD"
-			(at 180.34 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OPA564AIDWP:SOIC127P1040X265-21N"
-			(at 194.31 210.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/OPA564"
-			(at 194.31 310.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "1.5A, 24V, 17MHz, Power Operational Amplifier"
-			(at 162.56 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "2.65"
-			(at 194.31 510.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "595-OPA564AIDWD"
-			(at 194.31 610.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA564AIDWD?qs=ToK3%2FczOkx96JLK3EP%252BVfA%3D%3D"
-			(at 194.31 710.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 194.31 810.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "OPA564AIDWD"
-			(at 194.31 910.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "14"
-			(uuid "cf54a3b3-b1a4-4d74-9389-c8b48bddbeb9")
-		)
-		(pin "16"
-			(uuid "6ada8634-d5da-40f3-a150-c662cd3d3f97")
-		)
-		(pin "7"
-			(uuid "37bcad18-c5e6-4777-992c-28ce2230bc66")
-		)
-		(pin "4"
-			(uuid "3346a502-aa03-4619-aa00-23895fd9f071")
-		)
-		(pin "13"
-			(uuid "f681a12f-606c-4392-8c60-4b584e004982")
-		)
-		(pin "12"
-			(uuid "3656ed04-335a-49d2-aaa8-cb2b8791251d")
-		)
-		(pin "1"
-			(uuid "889a6ff5-edf5-4559-b76e-701464db8b3b")
-		)
-		(pin "6"
-			(uuid "777db77d-6d28-457c-90db-f5ce017eea4e")
-		)
-		(pin "9"
-			(uuid "254928cb-f8e8-411a-b797-812d7dbd918d")
-		)
-		(pin "17"
-			(uuid "c5a6f3f3-eebb-4d15-b777-db759d26a4bc")
-		)
-		(pin "19"
-			(uuid "b38f7cc6-57de-4d8a-9488-e1d991eb25ff")
-		)
-		(pin "20"
-			(uuid "8aa38a79-05c4-447b-ac45-a36dea9f61fb")
-		)
-		(pin "5"
-			(uuid "8d638633-741b-4edd-a0c6-382048e818ed")
-		)
-		(pin "8"
-			(uuid "b4e80e9d-7681-4744-869b-ae91e875aa2a")
-		)
-		(pin "18"
-			(uuid "b0657751-fd9b-4b4b-a1d4-75d058d41077")
-		)
-		(pin "21"
-			(uuid "784178bd-91bd-4639-9779-3d2fa63ce21a")
-		)
-		(pin "3"
-			(uuid "27532756-0773-4473-89e8-d6a582089701")
-		)
-		(pin "2"
-			(uuid "5d286b72-46f3-475d-a688-e6ebdde0d5f0")
-		)
-		(pin "10"
-			(uuid "86354a37-2e2a-46f5-b1e0-65353bb33765")
-		)
-		(pin "15"
-			(uuid "40a491b4-697b-44eb-90a3-be79e6cba335")
-		)
-		(pin "11"
-			(uuid "ae162991-1981-481c-989c-3c88932fc256")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "IC3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 101.6 35.56 90)
 		(unit 1)
@@ -3167,88 +2086,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 228.6 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1703788e-4428-4d5d-9e3e-ec652599cdc0")
-		(property "Reference" "R7"
-			(at 231.14 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "14.2 kOhms"
-			(at 231.14 133.3499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 229.616 132.334 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 228.6 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 228.6 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "950b9975-94bb-4a00-ba52-85e2edff5c68")
-		)
-		(pin "1"
-			(uuid "63537072-8ac9-4f9e-9d75-a8ba290d2918")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 95.25 35.56 270)
 		(unit 1)
@@ -3322,87 +2159,6 @@
 			(project "OPA564"
 				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
 					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 44.45 121.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "36cedf00-e094-4ccb-a37b-cfdde43aae24")
-		(property "Reference" "R5"
-			(at 33.02 120.6499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1 kOhms"
-			(at 33.02 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 45.466 122.174 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 44.45 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 44.45 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bd2a64ab-5e8f-42a0-b09c-ba3bebcccd6b")
-		)
-		(pin "2"
-			(uuid "0acd9188-c318-4dc9-8c6f-3ddc293843d5")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -4055,86 +2811,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 40.64 104.14 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94ae9922-225d-4b2c-967a-23181094ae3e")
-		(property "Reference" "R4"
-			(at 40.64 97.79 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1 kOhms"
-			(at 40.64 100.33 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 40.894 103.124 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 40.64 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "eb56dd5b-1ec3-43ec-b84b-e8252f85c1ed")
-		)
-		(pin "2"
-			(uuid "d2c2c9e2-6f38-43b7-af6f-e828382811ab")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 27.94 57.15 180)
 		(unit 1)
@@ -4531,88 +3207,6 @@
 			(project "OPA564"
 				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 130.81 132.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b19c23a0-81de-4a9f-959b-93c9236db1b4")
-		(property "Reference" "R6"
-			(at 133.35 130.8099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "14.2 kOhms"
-			(at 133.35 133.3499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 131.826 132.334 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 130.81 132.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "21801862-a3a5-4c01-b3b1-50bc57e86db5")
-		)
-		(pin "1"
-			(uuid "7adbfa54-b9a8-435c-b4e3-49a7a77d0014")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -5205,284 +3799,6 @@
 			(project "OPA564"
 				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 34.29 104.14 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d746d4c7-b24a-4d36-93e3-4c77210c11a1")
-		(property "Reference" "#PWR03"
-			(at 27.94 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 30.48 104.1399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 34.29 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 34.29 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2f5fd4c8-be90-4feb-8fc6-7792912499cc")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "OPA564AIDWD:OPA564AIDWD")
-		(at 64.77 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de2cc1aa-9ba9-4427-bedf-28c6d71c13a5")
-		(property "Reference" "IC2"
-			(at 82.55 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "OPA564AIDWD"
-			(at 82.55 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OPA564AIDWP:SOIC127P1040X265-21N"
-			(at 96.52 210.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/OPA564"
-			(at 96.52 310.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Description" "1.5A, 24V, 17MHz, Power Operational Amplifier"
-			(at 64.77 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "2.65"
-			(at 96.52 510.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" "595-OPA564AIDWD"
-			(at 96.52 610.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA564AIDWD?qs=ToK3%2FczOkx96JLK3EP%252BVfA%3D%3D"
-			(at 96.52 710.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 96.52 810.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "OPA564AIDWD"
-			(at 96.52 910.49 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(pin "14"
-			(uuid "0c983c74-2824-4f31-b868-7a4ff867ccc0")
-		)
-		(pin "16"
-			(uuid "25cb11b8-44bb-437d-a698-8588d2dd296f")
-		)
-		(pin "7"
-			(uuid "8494cdf7-16aa-4fd7-b2be-5712cfa8bb0f")
-		)
-		(pin "4"
-			(uuid "1799bee1-231a-4f26-8666-5090551bb50f")
-		)
-		(pin "13"
-			(uuid "989accd5-f3b9-4106-b2a6-cf89b31c97bd")
-		)
-		(pin "12"
-			(uuid "7d0f0b28-ca3f-42e7-8bac-bb1f6f4107a5")
-		)
-		(pin "1"
-			(uuid "93705598-a278-4485-9e0c-13b6e80cb7a1")
-		)
-		(pin "6"
-			(uuid "376a63c3-bf6a-4e27-810f-5d15bdf11c01")
-		)
-		(pin "9"
-			(uuid "2544147b-a18a-4b0b-aa64-5828adab49fd")
-		)
-		(pin "17"
-			(uuid "b5a6fb77-0f8f-4d86-be0a-0dd091796361")
-		)
-		(pin "19"
-			(uuid "6ee103df-6319-40ac-8bf5-7d0c2cbe0f23")
-		)
-		(pin "20"
-			(uuid "40d0e3a5-b45f-444e-b0fc-3110339d52fd")
-		)
-		(pin "5"
-			(uuid "97d547ac-328d-4a71-8210-55eb9728e4d2")
-		)
-		(pin "8"
-			(uuid "79bdeb5f-5ee5-4ba4-9f49-e91d693945fb")
-		)
-		(pin "18"
-			(uuid "9ad57e4c-030a-4ffb-92d7-574cc9050f6e")
-		)
-		(pin "21"
-			(uuid "4b534b3c-9643-4a51-9001-355562859b98")
-		)
-		(pin "3"
-			(uuid "28f660d4-8582-488a-b308-e53a60369bc9")
-		)
-		(pin "2"
-			(uuid "4f5949aa-974b-4d99-97aa-3b0199f081ac")
-		)
-		(pin "10"
-			(uuid "b6d4635c-2e53-49fb-995a-ac615dead121")
-		)
-		(pin "15"
-			(uuid "a1c1b7ef-a066-4d39-81d2-e86bc5ce1d3b")
-		)
-		(pin "11"
-			(uuid "beabed14-28a4-454c-a31f-447a8590c0a7")
-		)
-		(instances
-			(project "OPA564"
-				(path "/93a6095a-f706-43be-8949-042dbc49ebd9"
-					(reference "IC2")
 					(unit 1)
 				)
 			)
