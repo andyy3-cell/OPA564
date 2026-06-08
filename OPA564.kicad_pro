@@ -93,6 +93,7 @@
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
+        "hole_near_hole": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -522,10 +523,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
